@@ -1,3 +1,11 @@
 /* Your code goes below here */
 
+#main-heading {   /* This is an id */
+  color: red;
+}
+
+.font-blue {      /* This is a class */
+  color: blue;
+}
+
 /* Your code goes above here */
