@@ -1,0 +1,24 @@
+.container {
+  border: 4px dashed orange;
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+
+header, main, footer {
+  width: 90%;
+  height: 300px;
+  margin: 10px auto;
+}
+
+header {
+  border: 4px solid green;
+}
+
+main {
+  border: 4px dotted red;
+}
+
+footer {
+  border: 4px dashed purple;
+}
