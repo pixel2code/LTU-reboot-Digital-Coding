@@ -13,11 +13,7 @@ const favouriteRecipe = {
   ],
   letsCook: function() {
     console.log( "I'm hungry!, let's cook " + favouriteRecipe.recipeTitle );
-  },
-  makeRecipe() {
-    console.log( "To cook " + favouriteRecipe.recipeTitle + " you will needed the following: " + favouriteRecipe.ingredients);
-  },
+  }
 }
 
 favouriteRecipe.letsCook();
-favouriteRecipe.makeRecipe();
